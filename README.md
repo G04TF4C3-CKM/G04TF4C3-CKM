@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @G04TF4C3-CKM
 - 👀 I’m interested in Discrete Mathematics (and continuous too), Graph Theory/Computer Science, Astrophysics, Cosmology, Philosophy, and all things thought provoking.
 - 🌱 I’m currently learning to improve my knowledge of data science and AI software.
-- 💞️ I’m looking to collaborate on kaggle competitions 
+- 💞️ I’m looking to collaborate on kaggle competitions and research problems.
 - 📫 How to reach me ...
 
 <!---
